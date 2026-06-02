@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard MQTT</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+    <header>
+        <h1>🏭 Dashboard MQTT Industrial</h1>
+        <p>Monitoramento em tempo real</p>
+    </header>
+
+    <section class="cards">
+
+        <div class="card">
+            <h2>🌡 Temperatura</h2>
+            <p id="temperatura">--</p>
+        </div>
+
+        <div class="card">
+            <h2>💧 Umidade</h2>
+            <p id="umidade">--</p>
+        </div>
+
+        <div class="card">
+            <h2>⚙ Vibração</h2>
+            <p id="vibracao">--</p>
+        </div>
+
+        <div class="card">
+            <h2>🏭 Status</h2>
+            <p id="status">--</p>
+        </div>
+
+    </section>
+
+    <section class="controle">
+
+        <button id="ligar">
+            ▶ Ligar Máquina
+        </button>
+
+        <button id="desligar">
+            ⏹ Desligar Máquina
+        </button>
+
+    </section>
+
+    <section class="graficos">
+
+        <div class="grafico-card">
+            <h3>Temperatura</h3>
+            <canvas id="graficoTemp"></canvas>
+        </div>
+
+        <div class="grafico-card">
+            <h3>Umidade</h3>
+            <canvas id="graficoUmidade"></canvas>
+        </div>
+
+        <div class="grafico-card">
+            <h3>Vibração</h3>
+            <canvas id="graficoVibracao"></canvas>
+        </div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

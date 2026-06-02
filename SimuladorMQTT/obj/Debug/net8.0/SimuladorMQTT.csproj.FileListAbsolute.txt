@@ -1,0 +1,17 @@
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\bin\Debug\net8.0\SimuladorMQTT.exe
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\bin\Debug\net8.0\SimuladorMQTT.deps.json
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\bin\Debug\net8.0\SimuladorMQTT.runtimeconfig.json
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\bin\Debug\net8.0\SimuladorMQTT.dll
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\bin\Debug\net8.0\SimuladorMQTT.pdb
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.csproj.AssemblyReference.cache
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.AssemblyInfoInputs.cache
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.AssemblyInfo.cs
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.csproj.CoreCompileInputs.cache
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\Simulado.741C9BE9.Up2Date
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.dll
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\refint\SimuladorMQTT.dll
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.pdb
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\SimuladorMQTT.genruntimeconfig.cache
+C:\Users\65138624\Documents\front c# Rorina\SimuladorMQTT\obj\Debug\net8.0\ref\SimuladorMQTT.dll
